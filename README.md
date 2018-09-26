@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Сайт - портфолио Ильина Максима
 
-You can use the [editor on GitHub](https://github.com/IMBMan/IMBMan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Привет! Я техник-программист из Белгорода. Обожаю платформу C# .NET - особое предпочтение уделяю базам данных. Основным проектом представляю свою дипломную работу по ведению записей тренировок  «[SportsPage](http://sportspage.azurewebsites.net/)». 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### А еще люблю покопаться в "железе"
 
-### Markdown
+- Проходил стажировку в ООО «БелИнфоСеть», где получил большой опыт в поддержке программно-аппаратных средств на предприятии:
+-  Диагностика и восстановление программно-аппаратных средств; конфигурирование сборки компьютера;
+-  Установка ОС (Windows, Linux);
+-  Монтаж компьютерных сетей: обжим кабеля; настройка локальной сети и подключение общей папки; подключение переферийного устройства в сеть, так же для общего доступа;
+-  Обновление драйверов, установка АЦК-подписей, решение системных ошибок, устранение вирусов, создание резервных копий системы.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMBMan/IMBMan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Белгород 2018
+Ilin Max
